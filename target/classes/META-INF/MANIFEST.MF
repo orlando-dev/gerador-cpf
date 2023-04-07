@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: hiper
+Build-Jdk: 17.0.5
+Main-Class: br.ce.orlando.gerador.cpf.App
+Created-By: Maven Integration for Eclipse
+
